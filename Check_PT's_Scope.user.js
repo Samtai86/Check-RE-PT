@@ -3,7 +3,7 @@
 // @namespace    RE_PT's_Scope_Check
 // @version      1
 // @description  Check what process the PT is on AMS tool
-// @author       vashnu@, ushentai@
+// @author       vishnu@, ushentai@
 // @match        https://enumeration-discovery*.amazon.com/*
 // @include      https://enumeration-discovery*.amazon.com/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
